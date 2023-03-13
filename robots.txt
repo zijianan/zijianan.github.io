@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: https://spectacular-snickerdoodle-63a491.netlify.app/sitemap.xml
